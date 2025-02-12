@@ -1,4 +1,5 @@
 const axios = require('axios');
+require('dotenv').config()
 
 const getData = async () => {
   try {
@@ -11,9 +12,9 @@ const getData = async () => {
         },
       }
     );
+
     return result.data;
   } catch (err) {
-    console.log(err);
     throw err;
   }
 };

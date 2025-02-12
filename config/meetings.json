@@ -1,12 +1,79 @@
 [
   {
-    "title": "Spec 3.0 Meeting",
-    "url": "https://github.com/asyncapi/community/issues/531",
-    "date": "Wed, 07 Dec 2022 16:00:00 GMT"
+    "title": "Marketing WG Meeting",
+    "calLink": "https://www.google.com/calendar/event?eid=MG9qY2RycjY2cm0xMW1ibTVpZGh2MXZuNjQgY19xOXRzZWlnbG9tZHNqNm5qdWh2YnB0czExY0Bn",
+    "url": "https://github.com/asyncapi/community/issues/1554",
+    "banner": "",
+    "date": "2024-11-05T14:00:00.000Z"
   },
   {
-    "title": "Let's talk about contributing Developer Documentation",
-    "url": "https://github.com/asyncapi/community/issues/537",
-    "date": "Thu, 01 Dec 2022 12:00:00 GMT"
+    "title": "Marketing WG Meeting",
+    "calLink": "https://www.google.com/calendar/event?eid=dHVrZHMyYm9kMzcydmJpYW5qMmdpcWU5MW8gY19xOXRzZWlnbG9tZHNqNm5qdWh2YnB0czExY0Bn",
+    "url": "https://github.com/asyncapi/community/issues/1589",
+    "banner": "",
+    "date": "2024-11-19T14:00:00.000Z"
+  },
+  {
+    "title": "Design Call",
+    "calLink": "https://www.google.com/calendar/event?eid=ZmFwNGNoZW5kNzkzcDBsaHM2MW4xdDBzNW8gY19xOXRzZWlnbG9tZHNqNm5qdWh2YnB0czExY0Bn",
+    "url": "https://github.com/asyncapi/community/issues/1592",
+    "banner": "",
+    "date": "2024-11-21T12:00:00.000Z"
+  },
+  {
+    "title": "Community Meeting",
+    "calLink": "https://www.google.com/calendar/event?eid=NmQzNTJzbW91NTNscGo4dnJoMWNlM3J2YnMgY19xOXRzZWlnbG9tZHNqNm5qdWh2YnB0czExY0Bn",
+    "url": "https://github.com/asyncapi/community/issues/1596",
+    "banner": "https://github.com/user-attachments/assets/ff469484-a2c5-4aa2-8652-782f017947fb",
+    "date": "2024-11-26T16:00:00.000Z"
+  },
+  {
+    "title": "AsyncAPI Mentorship Program Kick-Off",
+    "calLink": "https://www.google.com/calendar/event?eid=aGg5cGtwdGV0YmpzbnBlcmdwYjFqMjU1cTQgY19xOXRzZWlnbG9tZHNqNm5qdWh2YnB0czExY0Bn",
+    "url": "https://github.com/asyncapi/community/issues/1599",
+    "banner": "https://github.com/user-attachments/assets/739381b2-b7de-4e08-b845-04e5a07ba7e0",
+    "date": "2024-12-03T13:00:00.000Z"
+  },
+  {
+    "title": "Marketing WG Meeting",
+    "calLink": "https://www.google.com/calendar/event?eid=a3FvM3ZyOTUwcjJpZm5wOWxzZWcwZ3Bja2sgY19xOXRzZWlnbG9tZHNqNm5qdWh2YnB0czExY0Bn",
+    "url": "https://github.com/asyncapi/community/issues/1616",
+    "banner": "",
+    "date": "2024-12-17T14:00:00.000Z"
+  },
+  {
+    "title": "Marketing WG Meeting",
+    "calLink": "https://www.google.com/calendar/event?eid=Z2xxNjVrcWNvNjJvanQ4dHE3NW5zcmVoZm8gY19xOXRzZWlnbG9tZHNqNm5qdWh2YnB0czExY0Bn",
+    "url": "https://github.com/asyncapi/community/issues/1657",
+    "banner": "",
+    "date": "2025-02-04T14:00:00.000Z"
+  },
+  {
+    "title": "AsyncAPI Community Working Group Meeting",
+    "calLink": "https://www.google.com/calendar/event?eid=N2k4dGR0Nml1OG4wbDdjMWQ2ZDliNDZmcGMgY19xOXRzZWlnbG9tZHNqNm5qdWh2YnB0czExY0Bn",
+    "url": "https://github.com/asyncapi/community/issues/1668",
+    "banner": "https://github.com/user-attachments/assets/e0c22c5a-94a8-488c-970c-14aa1697283c",
+    "date": "2025-02-11T15:00:00.000Z"
+  },
+  {
+    "title": "Marketing WG Meeting",
+    "calLink": "https://www.google.com/calendar/event?eid=Y29uZzNvNWxrcWs0Z2NqaWI4NjBmYnVwOWcgY19xOXRzZWlnbG9tZHNqNm5qdWh2YnB0czExY0Bn",
+    "url": "https://github.com/asyncapi/community/issues/1705",
+    "banner": "",
+    "date": "2025-02-18T14:00:00.000Z"
+  },
+  {
+    "title": "Design Meeting",
+    "calLink": "https://www.google.com/calendar/event?eid=bTg3aTM2cjFlYm1ucmluM203aWp0M2FubzggY19xOXRzZWlnbG9tZHNqNm5qdWh2YnB0czExY0Bn",
+    "url": "https://github.com/asyncapi/community/issues/1711",
+    "banner": "",
+    "date": "2025-02-20T16:00:00.000Z"
+  },
+  {
+    "title": "AsyncAPI Community Working Group Meeting",
+    "calLink": "https://www.google.com/calendar/event?eid=N2p1OWlza2xsY29zNTc1bXZzYm00aW80YTQgY19xOXRzZWlnbG9tZHNqNm5qdWh2YnB0czExY0Bn",
+    "url": "https://github.com/asyncapi/community/issues/1713",
+    "banner": "https://github.com/user-attachments/assets/e0c22c5a-94a8-488c-970c-14aa1697283c",
+    "date": "2025-02-25T15:00:00.000Z"
   }
 ]
