@@ -2,15 +2,18 @@
   for = "/*"
   [headers.values]
     X-Frame-Options = "ALLOW-FROM https://www.youtube.com/"
+    Access-Control-Allow-Origin = "*"
 
 [build]
-  command = "npm run build && npm run export"
+  command = "npm run build"
   functions = "netlify/functions"
   publish = "out"
 
 [build.environment]
-  NODE_VERSION = "16.13.2"
-  NPM_VERSION = "8.1.2"
+  NPM_FLAGS = "--production=false"
+  NETLIFY_NEXT_PLUGIN_SKIP = "true"
+  NODE_VERSION = "20.11.0"
+  NPM_VERSION = "10.2.4"
 
 # Used by JSON Schema definitions fetched directly from AsyncAPI website
 [[redirects]]
@@ -31,3 +34,6 @@ path = "/definitions/*"
 [[edge_functions]]
 function = "serve-definitions"
 path = "/schema-store/*"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
